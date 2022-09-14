@@ -39,10 +39,10 @@
             app:layout_row="0" />
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/buttonNextPage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button"
+            android:text="Next Page"
             app:layout_column="2"
             app:layout_row="0" />
 
@@ -58,8 +58,8 @@
             app:layout_row="1" />
 
         <Space
-            android:layout_width="96dp"
-            android:layout_height="92dp"
+            android:layout_width="107dp"
+            android:layout_height="89dp"
             app:layout_column="2"
             app:layout_row="2" />
 
